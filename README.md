@@ -16,6 +16,10 @@
 - School holidays generally increase sales, however the effect is less significant or mixed when combined with certain state holidays.
 - Type a state holidays consistently show high sales and Type b holidays show an extreme spike in sales when no school holiday coincides.
 
+![image](https://github.com/user-attachments/assets/a42b8204-f403-44ba-ba68-b10fe60b7475)
+
+![image](https://github.com/user-attachments/assets/0de7780c-f18a-4fbe-8456-471d5f37f262)
+
 #### 2.  Seasonal Trends:
 - Winter and Spring have the highest average sales, with December peaking across all assortments.
 - Assortment b consistently outperforms others, while a has weaker performance overall.
@@ -28,15 +32,26 @@
 ### Promotions effect:
 Running multiple promotions reduces average sales by 9.09%, possibly due to overlapping promotions or the two promotions might target the same customer base, causing one promotion to cannibalise the effect of the other.
 
+![image](https://github.com/user-attachments/assets/c3915a22-c7ac-4bbc-b600-462f5009decf)
+
 
 ### Competitor Analysis:
 #### 1.  Distance Effect:
-- Competitor distance has minimal impact on store sales, with a very weak negative correlation.
+-  The correlation coefficient of -0.036, indicates that Competitor distance has little to no impact on Sales
 - Internal factors like promotions and assortment are more impactful than competitor proximity.
+
+![image](https://github.com/user-attachments/assets/c69b1cb8-3205-4742-83a4-29ab446ad0c1)
+
 
 #### 2.  Promotions in Competitive Areas:
 - Promotions are most effective in stores near competitors (0-1 km).
 - When competitors are located further away, promotions have a reduced impact on customer traffic.
+
+![image](https://github.com/user-attachments/assets/8aa45279-a6ca-4761-91bb-331f6e2a3d43)
+
+![image](https://github.com/user-attachments/assets/7e48a084-232f-40b5-8701-51eb96a8c3da)
+
+
 
 ## Prediction Results
 The model achieved an MAE of 734.94, an RMSE of 1002.60, and an R² score of 0.895, suggesting that the model explains approximately 89.5% of the variance in the sales data. This demonstrates strong predictive power.
