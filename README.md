@@ -4,7 +4,7 @@
 
 ## Business Objective
 
-### To analyse sales data, customer behaviour, promotions, and competition distance to discover actionable insights that improve sales performance and inform strategic business decisions. A Random Forest Regressor was used to predict future sales trends by learning patterns in historical data, such as promotions, customer behaviour, and seasonality.
+#### To analyse sales data, customer behaviour, promotions, and competition distance to discover actionable insights that improve sales performance and inform strategic business decisions. A Random Forest Regressor was used to predict future sales trends by learning patterns in historical data, such as promotions, customer behaviour, and seasonality.
 
 ## Methodology
 ![image](https://github.com/user-attachments/assets/920bfda7-4d86-43e1-9acd-f5561461a9f6)
