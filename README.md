@@ -1,6 +1,6 @@
 ## Project Title
 
-### Retail Sales and Customer Insights with ML Predictions
+### Retail Sales and Customer Analysis with ML Predictions
 
 ## Business Objective
 
